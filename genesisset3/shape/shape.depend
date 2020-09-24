@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\training\documents\genesisset3\shape\main.cpp
+	<iostream>
+
+1600847726 source:c:\users\training\documents\genesisset3\shape\shape.cc
+	<iostream>
+	"triangle.h"
+	"polygon.h"
+	"shape.h"
+	<math.h>
+	"rectangle.h"
+	"shape.h"
+	"circle.h"
+
+1600847321 c:\users\training\documents\genesisset3\shape\triangle.h
+	"polygon.h"
+
+1600847693 c:\users\training\documents\genesisset3\shape\polygon.h
+	"shape.h"
+
+1600847531 c:\users\training\documents\genesisset3\shape\shape.h
+
+1600847493 c:\users\training\documents\genesisset3\shape\rectangle.h
+	"polygon.h"
+
+1600847693 c:\users\training\documents\genesisset3\shape\circle.h
+	"shape.h"
+
+1600847689 source:c:\users\training\documents\genesisset3\shape\shape_test.cc
+	<gtest/gtest.h>
+	"triangle.h"
+	"polygon.h"
+	"shape.h"
+	<math.h>
+	"rectangle.h"
+	"circle.h"
+

@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1600762417 source:c:\users\training\documents\set_3\customer\main.cpp
+	<iostream>
+	"customer.h"
+	"prepaid.h"
+	"postpaid.h"
+
+1600764359 source:c:\users\training\documents\set_3\customer\customer.cc
+	"customer.h"
+	<iostream>
+
+1600764348 c:\users\training\documents\set_3\customer\customer.h
+	<string>
+	<cstdint>
+
+1600764752 source:c:\users\training\documents\set_3\customer\prepaid.cc
+	"prepaid.h"
+	<iostream>
+
+1600758990 c:\users\training\documents\set_3\customer\prepaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600764528 source:c:\users\training\documents\set_3\customer\postpaid.cc
+	"postpaid.h"
+	<iostream>
+
+1600762561 c:\users\training\documents\set_3\customer\postpaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600908509 source:c:\users\training\documents\genesisset3\customer\customer.cc
+	"customer.h"
+	<iostream>
+
+1600908509 c:\users\training\documents\genesisset3\customer\customer.h
+	<string>
+	<cstdint>
+
+1600908509 source:c:\users\training\documents\genesisset3\customer\main.cpp
+	<iostream>
+	"customer.h"
+	"prepaid.h"
+	"postpaid.h"
+
+1600908509 c:\users\training\documents\genesisset3\customer\prepaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600908509 c:\users\training\documents\genesisset3\customer\postpaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600908509 source:c:\users\training\documents\genesisset3\customer\postpaid.cc
+	"postpaid.h"
+	<iostream>
+
+1600908509 source:c:\users\training\documents\genesisset3\customer\prepaid.cc
+	"prepaid.h"
+	<iostream>
+
